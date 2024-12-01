@@ -14,7 +14,7 @@ class ProfilePage extends StatefulWidget {
 class _ProfilePageState extends State<ProfilePage> {
   int _currentPage = 0;
   double _sliverToBoxAdapterHeight = 0.0;
-  String userName = "Shimmerai";
+  String userName = "Simmerai";
   String userAvatar = "https://static.wikia.nocookie.net/gochiusa/images/1/18/Tippy.png/revision/latest?cb=20160203062255";
   Map<String, String> stats = {
     "đánh giá": "15",

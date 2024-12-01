@@ -161,7 +161,7 @@ class _CommunityCardState extends State<CommunityCard> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
-                                    'Shimmerai',
+                                    'Simmerai',
                                     style: TextStyle(
                                       color: Colors.deepPurple,
                                       fontWeight: FontWeight.w600,

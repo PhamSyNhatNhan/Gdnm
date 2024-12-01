@@ -830,7 +830,7 @@ class _DetailDish extends State<DetailDish> {
                                         mainAxisAlignment: MainAxisAlignment.center,
                                         children: [
                                           Text(
-                                            'Bắt đầu với Shimmerai ',
+                                            'Bắt đầu với Simmerai ',
                                             style: TextStyle(
                                               fontWeight: FontWeight.bold,
                                               fontSize: 17,

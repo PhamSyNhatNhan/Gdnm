@@ -261,7 +261,7 @@ class _ShimmeraiState extends State<Shimmerai> {
                                             isDense: true,
                                             contentPadding: EdgeInsets.symmetric(horizontal: 20),
                                             border: InputBorder.none,
-                                            hintText: 'Chat với Shimmerai...',
+                                            hintText: 'Chat với Simmerai...',
                                             hintStyle: TextStyle(color: Colors.grey[400]),
                                           ),
                                           style: TextStyle(fontSize: 17),
